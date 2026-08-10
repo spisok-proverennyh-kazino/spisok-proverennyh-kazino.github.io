@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-proverennyh-kazino.github.io
+Sitemap: https://spisok-proverennyh-kazino.github.io/sitemap.xml
